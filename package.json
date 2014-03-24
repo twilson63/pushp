@@ -1,6 +1,6 @@
 {
   "name": "pushp",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A module that attaches an object value to an object array.",
   "main": "index.js",
   "directories": {
